@@ -1,0 +1,6 @@
+[
+{
+  "directory": "C:\\Users\\cakit\\Desktop\\pybind",
+  "arguments": ["C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/Ibuild\\.gens\\pybind\\windows\\x64\\release\\platform\\windows\\idl", "/EHsc", "/IC:\\Users\\cakit\\AppData\\Local\\.xmake\\packages\\p\\pybind11\\v2.13.6\\f12e311f28ed4938bfdd081130deb88b\\include", "/IC:\\Users\\cakit\\scoop\\apps\\python\\current\\include", "/DNDEBUG", "/Fobuild\\.objs\\pybind\\windows\\x64\\release\\src\\pybind.cpp.obj", "src\\pybind.cpp"],
+  "file": "src\\pybind.cpp"
+}]
